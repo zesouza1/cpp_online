@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+body,html {
+    padding-left: 2%;
+    padding-top: 2%;
+}
+button{
+    margin: 50px;
+}
+
+#one_label{
+    background-color: yellow;
+}
+
+#two_label{
+    background-color: aqua;
+    a{
+        margin-left: 50px;
+    }
+}
